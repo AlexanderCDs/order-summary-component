@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/order-summary-component/static/css/main.2ced68f8.chunk.css",
-    "main.js": "/order-summary-component/static/js/main.0556ce9e.chunk.js",
-    "main.js.map": "/order-summary-component/static/js/main.0556ce9e.chunk.js.map",
+    "main.css": "/order-summary-component/static/css/main.aa1fdc9f.chunk.css",
+    "main.js": "/order-summary-component/static/js/main.217f3d36.chunk.js",
+    "main.js.map": "/order-summary-component/static/js/main.217f3d36.chunk.js.map",
     "runtime-main.js": "/order-summary-component/static/js/runtime-main.000b9c9e.js",
     "runtime-main.js.map": "/order-summary-component/static/js/runtime-main.000b9c9e.js.map",
-    "static/js/2.e9db8c72.chunk.js": "/order-summary-component/static/js/2.e9db8c72.chunk.js",
-    "static/js/2.e9db8c72.chunk.js.map": "/order-summary-component/static/js/2.e9db8c72.chunk.js.map",
+    "static/js/2.b06d1177.chunk.js": "/order-summary-component/static/js/2.b06d1177.chunk.js",
+    "static/js/2.b06d1177.chunk.js.map": "/order-summary-component/static/js/2.b06d1177.chunk.js.map",
     "static/js/3.6bb860e4.chunk.js": "/order-summary-component/static/js/3.6bb860e4.chunk.js",
     "static/js/3.6bb860e4.chunk.js.map": "/order-summary-component/static/js/3.6bb860e4.chunk.js.map",
     "index.html": "/order-summary-component/index.html",
-    "static/css/main.2ced68f8.chunk.css.map": "/order-summary-component/static/css/main.2ced68f8.chunk.css.map",
-    "static/js/2.e9db8c72.chunk.js.LICENSE.txt": "/order-summary-component/static/js/2.e9db8c72.chunk.js.LICENSE.txt",
+    "static/css/main.aa1fdc9f.chunk.css.map": "/order-summary-component/static/css/main.aa1fdc9f.chunk.css.map",
+    "static/js/2.b06d1177.chunk.js.LICENSE.txt": "/order-summary-component/static/js/2.b06d1177.chunk.js.LICENSE.txt",
     "static/media/icon-music.f20c7787.svg": "/order-summary-component/static/media/icon-music.f20c7787.svg",
     "static/media/illustration-hero.73032583.svg": "/order-summary-component/static/media/illustration-hero.73032583.svg",
-    "static/media/logo.6ce24c58.svg": "/order-summary-component/static/media/logo.6ce24c58.svg",
     "static/media/App.scss": "/order-summary-component/static/media/pattern-background-mobile.c8d50fcb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.000b9c9e.js",
-    "static/js/2.e9db8c72.chunk.js",
-    "static/css/main.2ced68f8.chunk.css",
-    "static/js/main.0556ce9e.chunk.js"
+    "static/js/2.b06d1177.chunk.js",
+    "static/css/main.aa1fdc9f.chunk.css",
+    "static/js/main.217f3d36.chunk.js"
   ]
 }
