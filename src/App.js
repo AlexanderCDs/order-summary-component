@@ -15,8 +15,7 @@ function App() {
         <Card 
           header={illustration}
           title="Order Summary" 
-          description="Tou can now listen to millons of song, audiobooks, and podcasts on any device anywhere you like!" 
-          body="" 
+          description="You can now listen to millons of song, audiobooks, and podcasts on any device anywhere you like!" 
           buttons={[
               {text: 'Proceed to Paymment'},
               {text: 'Cancel Order', type: 'secondary'},
@@ -25,7 +24,7 @@ function App() {
               icon={music} 
               name={'Annual Plan'} 
               price={'55.99'} 
-              buttons={[{text: 'Cancel', type: 'link'}]}></Item>
+              buttons={[{text: 'Change', type: 'link'}]}></Item>
         </Card>
       </div>
     </div>

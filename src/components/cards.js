@@ -10,7 +10,7 @@ export function Card(props) {
     return (
         <div className="card">
           <div className="card__head">
-            <img src={header}/>
+            <img alt={title} width="300" height="160" src={header}/>
           </div>
           <div className="card__content">
             <h2 className="card__title"> {title} </h2>
@@ -20,7 +20,7 @@ export function Card(props) {
             </div> 
             <div className="card__footer">
                 {buttons.map((button, index) => {
-                    return <Button text={button.text} type={button.type}/>
+                    return <Button key={`btn-f-${index}`} text={button.text} type={button.type}/>
                 })} 
             </div>
           </div> 
@@ -33,7 +33,7 @@ export function Item(props) {
     return (
         <div className="card__item">
             <div className="card__icon">
-                <img src={icon} className="card__img"/>
+                <img alt={name} width="45" height="45" src={icon} className="card__img"/>
             </div>
             <div className="card__text"> 
                 <span className="title">{name}</span>
@@ -41,7 +41,7 @@ export function Item(props) {
             </div>
             <div className="card__btns">
                 {buttons.map((button, index) => {
-                    return <Button text={button.text} type={button.type}/>  
+                    return <Button key={`btn-i-${index}`} text={button.text} type={button.type}/>  
                 })}
             </div>
         </div>
